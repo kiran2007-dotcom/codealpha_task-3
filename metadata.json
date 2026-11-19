@@ -1,0 +1,6 @@
+{
+  "name": "ConnectSphere",
+  "description": "A modern full-stack social networking platform for real-time posts, profiles, discovery, notifications, and direct messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
